@@ -1,7 +1,7 @@
 # diagrams.net AWS Architecture Icons
 
 AWS Architecture Icons version:
-[2021-09-17](https://d1.awsstatic.com/webteam/architecture-icons/q3-2021/Asset-Package_09172021.49796a977327744ded96470f1f94aafb1512f401.zip)
+[2022-04-30](https://d1.awsstatic.com/webteam/architecture-icons/q2-2022/Asset-Package_04302022.e942f826cd826cfa2d32455f3a7973ad4b92eb6a.zip)
 
 ## What is it?
 
@@ -30,7 +30,23 @@ Click on the link to load library to diagrams.net.
 
 ## Previous versions
 
-- [2020-09-11](https://github.com/m-radzikowski/diagrams-aws-icons/blob/105b6d7a794222f1223dd33cafe0946176d17a95/README.md)
+- [2021-09-17](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/m-radzikowski/diagrams-aws-icons/master/20210917/AWS%20Architecture%20Icons%2020210917.xml)
+- [2020-09-11](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/m-radzikowski/diagrams-aws-icons/master/20200911/AWS%20Architecture%20Icons.xml)
+
+## Generating library
+
+Icons library is generated using [icons-asset-generator](https://github.com/m-radzikowski/icons-asset-generator):
+
+```bash
+poetry run icons-asset-generator \
+    --filename-includes _48 \
+    --filename-excludes Dark \
+    --image-name-remove Light Arch_ Res_ _48 . - _  \
+    --library-name-remove  . - _ \
+    --path "./Asset-Package_04302022/" \
+    diagrams.net \
+    --size height=50
+```
 
 ## Copyright
 
