@@ -25,7 +25,7 @@ or using links provided below.
 
 Click on the link to load library to diagrams.net.
 
-[All icons as a single library](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/m-radzikowski/diagrams-aws-icons/master/20210917/AWS%20Architecture%20Icons%2020210917.xml)
+[All icons as a single library](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/m-radzikowski/diagrams-aws-icons/master/20220430/AWS%20Architecture%20Icons%2020220430.xml)
 (may take few seconds to load)
 
 ## Previous versions
