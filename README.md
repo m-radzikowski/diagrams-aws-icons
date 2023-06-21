@@ -1,7 +1,8 @@
 # diagrams.net AWS Architecture Icons
 
 AWS Architecture Icons version:
-[2023-01-31](https://d1.awsstatic.com/webteam/architecture-icons/q1-2023/Asset-Package_01312023.d59bb3e1bf7860fb55d4d737779e7c6fce1e35ae.zip)
+[2023-04-28](https://d1.awsstatic.com/webteam/architecture-icons/q2-2023/Asset-Package_04282023.ca9655a386a46bda0b6238cca2651e8f27fcb5c9.zip)
+
 
 ## What is it?
 
@@ -23,14 +24,15 @@ or using links provided below.
 
 ## Library links
 
-- [click to add to diagrams.net](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/m-radzikowski/diagrams-aws-icons/master/20230131/AWS%20Architecture%20Icons%2020230131.xml)
+- [click to add to diagrams.net](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/m-radzikowski/diagrams-aws-icons/master/20230428/AWS%20Architecture%20Icons%2020230428.xml)
   (may take few seconds to load)
 - add manually (for example to diagrams.net on Atlassian Confluence):
   select File → Open Library from → URL and put:
-  `https://raw.githubusercontent.com/m-radzikowski/diagrams-aws-icons/master/20230131/AWS Architecture Icons 20230131.xml`
+  `https://raw.githubusercontent.com/m-radzikowski/diagrams-aws-icons/master/20230428/AWS Architecture Icons 20230428.xml`
 
 ## Previous versions
 
+- [2023-01-31](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/m-radzikowski/diagrams-aws-icons/master/20230131/AWS%20Architecture%20Icons%2020230131.xml)
 - [2022-07-31](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/m-radzikowski/diagrams-aws-icons/master/20220731/AWS%20Architecture%20Icons%2020220731.xml)
 - [2022-04-30](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/m-radzikowski/diagrams-aws-icons/master/20220430/AWS%20Architecture%20Icons%2020220430.xml)
 - [2021-09-17](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/m-radzikowski/diagrams-aws-icons/master/20210917/AWS%20Architecture%20Icons%2020210917.xml)
